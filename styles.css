@@ -1,16 +1,27 @@
-img {
+.prof {
     object-fit:cover;
     width:300px;
     height:300px;
-    margin-top:220px;
+    margin-top:60px;
     border-style:double;
     border-color:#00FFeF;
     border-width:20px;
     border-radius:50%;
 }
 
+.icons {
+    object-fit:cover;
+    width:100px;
+    height:100px;
+    margin-top:60px;
+    border-style:dotted;
+    border-color:#FFFFFF;
+    border-width:5px;
+
+}
 
 h1 {
+
     margin-top:1px;
     color:#00FFeF;
     text-shadow:6px 6px black;
@@ -28,8 +39,7 @@ p {
 body{
     font-family:"Comic Sans MS";
     background-color:#370e81;
-    text-align:center;
     background-image:url("http://churchofchristarticles.com/blog/wp-content/uploads/2015/10/universe-vast.jpg");
     size:250%;
-    
+    text-align:center;
 }
